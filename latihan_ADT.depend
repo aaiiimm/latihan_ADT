@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1583933154 source:d:\kurusbersamakaagus\latihan_adt\header.cpp
+	"header.h"
+
+1583933154 d:\kurusbersamakaagus\latihan_adt\header.h
+	<string>
+	<iostream>
+	<stdlib.h>
+
+1583933549 source:d:\kurusbersamakaagus\latihan_adt\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	"header.h"
+
